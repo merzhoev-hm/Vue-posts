@@ -1,5 +1,5 @@
 # vue3-project
-
+Ссылка на деплой https://rococo-lolly-4bc7c8.netlify.app
 ## Project setup
 ```
 npm install
